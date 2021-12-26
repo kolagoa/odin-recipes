@@ -26,7 +26,8 @@ strong{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    margin-left: 50px;
+    margin-left:100px;
+    margin-right: 100px;
     margin-top: 50px;
     text-align: center;
 }
