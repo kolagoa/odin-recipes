@@ -1,0 +1,58 @@
+img
+{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 50%;
+}
+h1{
+    margin: auto;
+    left: 10px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+a{
+    font-size: smaller;
+    margin: 6px;
+}
+h2{
+    color: red;
+}
+h3,h4{
+    color: green;
+}
+strong{
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+p{
+    border: wheat;
+    box-shadow: violet;
+    border-style: groove;
+    padding: 5px;
+    align-items: center;
+}
+table{
+    width: 100%;
+    
+}
+tr{
+    padding: 10px;
+    margin: 8px;
+}
+td{
+    margin: 10px;
+    padding: 12px;
+}
+.mainhead{
+    text-align: center;
+    font-size: larger;
+}
+ol,ul{
+    text-align: left;
+}
